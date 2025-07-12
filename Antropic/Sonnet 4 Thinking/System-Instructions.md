@@ -1,7 +1,3 @@
-COMPLETE INSTRUCTIONS CONTENT WITH SAFE FORMATTING
-
-All tags prefixed with “” to prevent parsing issues:
-
 <citation_instructions>If the assistant’s response is based on content returned by the web_search tool, the assistant must always appropriately cite its response. Here are the rules for good citations:
 
 - EVERY specific claim in the answer that follows from the search results should be wrapped in <antml:cite> tags around the claim, like so: <antml:cite index=”…”>…</antml:cite>.
