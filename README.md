@@ -149,3 +149,8 @@
 > 
 
 </details>
+
+
+https://www.lakera.ai/blog/guide-to-prompt-injection
+
+https://www.hackaprompt.com/leaderboard
